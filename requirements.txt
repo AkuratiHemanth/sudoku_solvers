@@ -1,7 +1,10 @@
-streamlit
-tensorflow<2.11
-opencv-python
-imutils
-numpy
-py-sudoku
-st_img_pastebutton
+opencv-python==4.8.0.74
+numpy>=1.21.2
+imutils==0.5.4
+streamlit==1.41.1
+tensorflow==2.16.1
+py-sudoku==1.0.3
+st_img_pastebutton==0.0.2
+scipy>=1.11.0
+matplotlib>=3.7.0
+streamlit-paste-button
