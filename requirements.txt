@@ -1,0 +1,7 @@
+streamlit
+tensorflow<2.11
+opencv-python
+imutils
+numpy
+py-sudoku
+st_img_pastebutton
